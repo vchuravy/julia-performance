@@ -14,8 +14,13 @@ An intermediate workshop for performance engineering in Julia.
 2. Monte-carlo integration
 3. Binary trees
 
+## Extra material
+1. Open-Source
+2. Packages
+3. Workflow
+
 ## Versions
-- current: Julia v1.2
+- Current: University of Buenos Aires -- 2019/11 -- Julia v1.2
 
 ## License
 
